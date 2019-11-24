@@ -8,7 +8,7 @@
 
 2.2 User Interface:-
  
-  <img src="homepage.png"/> 
+  <img src="homepage.PNG"/> 
   
   <img src="jobview2.png"/> 
   
