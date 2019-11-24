@@ -6,7 +6,7 @@
 2.1: Purpose of the site:
   ii)A global choice for graduate and undergardute students.
 
-2.3 User Interface:-
+2.2 User Interface:-
  
   <img src="homepage.png"/> 
   
@@ -27,5 +27,5 @@
   <img src="companydashboardview2.png"/>
 
   <img src="companycreatepostview.png"/> 
-  
+
   <img src="databasetable.png"/> 
