@@ -26,8 +26,8 @@ class JobpostController extends Controller
      */
     public function index()
     {
-        $jobs= Jobs::all();
-        // $jobs= Jobs::orderBy('created_at','asc')->paginate(2);
+        //$jobs= Jobs::all();
+         $jobs= Jobs::orderBy('created_at','asc')->paginate(2);
         //$pjobs= DB::select('SELECT * FROM jobs');        
          return view('jobposts.indexjob')->with('jobs',$jobs);
         //return view('jobposts.indexjob');

@@ -24,7 +24,7 @@
              </div>
           </div> 
           @endforeach
-          {{-- {{$jobs->links()}} --}}
+           {{$jobs->links()}}
         @else
             <p>No post found</p>
         @endif  

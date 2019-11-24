@@ -30,7 +30,7 @@
             <!-- Right Side Of Navbar -->
             <ul class="nav navbar-nav navbar-right">
                 <!-- Authentication Links -->
-                {{-- <li><a href="/admin/login">Employers</a></li> --}}
+                 {{-- <li><a href="/admin/login">Employers</a></li> --}}
                 @guest
                     <li><a href="{{ route('login') }}">Job Seekers</a></li>
                     {{-- <li><a href="{{ route('register') }}">Register</a></li> --}}
