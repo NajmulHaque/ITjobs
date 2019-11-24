@@ -10,22 +10,22 @@
  
   <img src="homepage.PNG"/> 
   
-  <img src="jobview2.png"/> 
+  <img src="jobview2.PNG"/> 
   
-  <img src="detailsjobview.png"/> 
+  <img src="detailsjobview.PNG"/> 
 
-  <img src="companyregisterview.png"/> 
+  <img src="companyregisterview.PNG"/> 
 
-  <img src="companyloginview.png"/>
+  <img src="companyloginview.PNG"/>
 
-  <img src="applicantregisterview.png"/>
+  <img src="applicantregisterview.PNG"/>
 
-  <img src="applicantloginview.png"/>
+  <img src="applicantloginview.PNG"/>
 
-  <img src="applicantprofileview.png"/> 
+  <img src="applicantprofileview.PNG"/> 
 
-  <img src="companydashboardview2.png"/>
+  <img src="companydashboardview2.PNG"/>
 
-  <img src="companycreatepostview.png"/> 
+  <img src="companycreatepostview.PNG"/> 
 
-  <img src="databasetable.png"/> 
+  <img src="databasetable.PNG"/> 
